@@ -1,27 +1,27 @@
 1
 00:00:03,731 --> 00:00:08,670
-Релиз
 Musty Movies
 
 2
 00:00:36,731 --> 00:00:40,670
-Buenos días. Dice informativo
-la oficina Central de Control.
+Buenos dias Habla la Oficina de 
+información de administración central.
+
 
 3
 00:00:40,720 --> 00:00:45,339
-Todas las патрулям seguir
+Todas las patrullas seguir
 en la zona de distensión.
 
 4
 00:00:45,548 --> 00:00:50,930
-Que informe sobre los indocumentados de ciudadanos,
+ informe sobre los ciudadanos indocumentados,
 evaluar la situación e informar.
 
 5
 00:02:29,175 --> 00:02:33,486
-Hola, demostró la existencia de un
-indocumentados de ciudadanos.
+Hola, demostró la existencia de
+ciudadanos indocumentados.
 
 6
 00:02:33,487 --> 00:02:36,006
@@ -33,13 +33,13 @@ Salimos.
 
 8
 00:03:12,461 --> 00:03:15,884
-Vamos, nosotros limpiamos la mierda!
-Bueno pues el mismo, más rápido, corremos!
+Vamos,  limpiemos la mierda!
+Bueno pues el mismo, más rápido, corran!
 
 9
 00:03:15,934 --> 00:03:20,140
 Vamos, vamos. Salir de aquí!
-Corremos!
+corran!
 
 10
 00:05:58,871 --> 00:06:02,506
@@ -52,8 +52,8 @@ Buenos días.
 
 12
 00:08:24,848 --> 00:08:29,180
-Buenos días. Dice informativo
-la oficina Central de Control.
+Buenos dias Habla la Oficina de 
+información de administración central.
 
 13
 00:08:29,230 --> 00:08:34,408
@@ -61,7 +61,7 @@ Guarde las armas de acuerdo con las reglas.
 
 14
 00:08:34,653 --> 00:08:38,190
-Limpia el arma - seguro de armas.
+Limpiar el arma - dejar con seguro.
 
 15
 00:08:39,046 --> 00:08:41,360
@@ -69,13 +69,13 @@ El sujeto se niega a responder.
 
 16
 00:08:41,788 --> 00:08:44,658
-Saca de su código de barras y занеси
-en la lista de los difuntos.
+Retire su código de barras e ingréselo
+a la lista de muertos.
 
 17
 00:08:59,929 --> 00:09:03,853
-Esta es la última que nos detuvieron
-el viejo del complejo de misiles sabine.
+Este es el último que arrestamos
+en el antiguo complejo de misiles "Sabina".
 
 18
 00:09:03,903 --> 00:09:05,950
@@ -88,7 +88,7 @@ Levante la mano para la identificación.
 20
 00:09:13,771 --> 00:09:17,053
 No tiene código de barras.
-Ella no está registrado.
+Ella no está registrada.
 
 21
 00:09:17,447 --> 00:09:19,575
@@ -96,7 +96,7 @@ De qué está hecho este traje?
 
 22
 00:09:20,066 --> 00:09:21,694
-El escáner sólo con la mente viene.
+El escáner se vuelve loco.
 
 23
 00:09:23,165 --> 00:09:24,365
@@ -131,12 +131,15 @@ El metal, el traje.
 
 30
 00:09:50,991 --> 00:09:55,092
-- ¿Alguna hay documentos?
-- No, pero hay algunas de nuestras posesiones.
+- ¿Tienes algún documento?
+- No, pero hay algunas  posesiones.
+
+
+
 
 31
 00:10:00,061 --> 00:10:02,586
-¿Por qué te estas fotos?
+¿Por qué necesitas estas fotos?
 
 32
 00:10:03,317 --> 00:10:05,101
@@ -149,7 +152,7 @@ quién te espera?
 
 34
 00:10:09,603 --> 00:10:12,243
-¿Por qué llevas con una de estas imágenes?
+¿Por qué llevas  estas imágenes?
 
 35
 00:10:12,577 --> 00:10:15,144
@@ -161,7 +164,8 @@ Sub-in.
 
 37
 00:10:20,120 --> 00:10:23,299
-O está cercano, o casi muda.
+Ella es miope o casi tonta.
+
 
 38
 00:10:24,378 --> 00:10:26,121
@@ -176,24 +180,28 @@ El sujeto no tiene código de barras.
 Versión de prueba no registrada, signos mental
 la desviación, incluya en la lista de los difuntos.
 
+
+No registrado, signos de desviacion mental
+, agregar a la lista de fallecidos.
+
 41
 00:10:40,077 --> 00:10:44,242
 Aunque no, espera un minuto.
-Haremos de otra manera.
+lo Haremos de otra manera.
 
 42
 00:10:45,848 --> 00:10:47,658
-Envie su bajo observación.
+Envie bajo su observación.
 
 43
 00:10:47,708 --> 00:10:53,047
-Completa psicológico y médico
-una encuesta. Ropa de quitar y efectuar el análisis.
+Completa informe psicológico y médico
+.quitar Ropa y efectuar el análisis.
 
 44
 00:10:53,097 --> 00:10:58,371
-Y sus cosas lleva en расследовательный departamento,
-yo ya llego tarde.
+Y llevarle sus cosas al departamento de investigación,
+Ya llego tarde.
 
 45
 00:10:58,583 --> 00:11:02,693
@@ -226,8 +234,9 @@ Así y nombre - sabine.
 
 51
 00:12:59,061 --> 00:13:01,523
-Si пообещаю leer esto,
+Si prometo leerlo,
 ¿puedo invitarte a la bebida?
+
 
 52
 00:13:01,573 --> 00:13:03,594
@@ -245,16 +254,17 @@ Todos los jueves estoy libre.
 
 55
 00:13:16,003 --> 00:13:19,720
-Y puede послепослепослезавтра?
+¿O tal vez pasado mañana?
 
 56
 00:13:21,456 --> 00:13:23,445
-Es соблазнительное la propuesta.
+Esta es una oferta seductora.
 
 57
 00:13:24,782 --> 00:13:30,172
 No sé estoy tan ocupada
-puede haber, y estuvo de acuerdo.
+podríamos  llegar a un acuerdo.
+
 
 58
 00:13:31,874 --> 00:13:35,529
@@ -285,21 +295,23 @@ Por el bien de nuestros niños no nacidos.
 
 64
 00:14:11,103 --> 00:14:12,366
-Torpe nios.
+Niños tontos
 
 65
 00:14:12,679 --> 00:14:15,214
-El mejor de la casa estaban sentados,
-y no repartió es una mierda, sí?
+Será mejor que nos sentemos en casa
+y no repar esa mierda, ¿verdad?
+
+
 
 66
 00:14:15,851 --> 00:14:17,207
-Bueno, puede, en este sentido.
+Bueno, tal vez eso tiene sentido.
 
 67
 00:14:17,385 --> 00:14:21,141
-Yo creo que no. A mi se -
-simplemente torpe niños y tienen que quedarse en casa.
+Creo que no En mi opinión son
+solo niños estúpidos y necesitan quedarse en casa.
 
 68
 00:15:04,763 --> 00:15:06,474
@@ -307,32 +319,38 @@ La enfermedad!
 
 69
 00:15:06,652 --> 00:15:11,081
-Negras nubes, demonios del abismo infernal!
-Haga preguntas, señor!
+Nubes negras, demonios de las profundidades del infierno!
+¡preguntenme, caballeros!
 
 70
 00:15:11,131 --> 00:15:15,703
-Paramilitares de las larvas,
-habían venido de vacío, de debajo de la tierra!
+gusanos paramilitares,
+venieron del vacío, de debajo de la tierra!
+
+
 
 71
 00:15:15,836 --> 00:15:18,966
-Para devorar a nuestro glorioso de la sociedad!
+Para devorar a nuestra gloriosa sociedad!
 
 72
 00:15:19,016 --> 00:15:22,806
-Haga preguntas, las larvas!
-Haga preguntas!
+¡preguntenme, gusanos!
+preguntenme!
+
+
+
 
 73
 00:15:23,558 --> 00:15:28,232
-Haga preguntas, las buenas personas
+preguntenme, las buenas personas
 trate de cambiar. Usted no debe...
 
 74
 00:16:20,535 --> 00:16:24,187
-Es la misma mi siempre amigo
-recuerdo de ti de la noche pasada.
+Oh, este es mi amigo guerrero
+Te recuerdo de la noche pasada.
+
 
 75
 00:16:24,980 --> 00:16:28,048
@@ -345,28 +363,31 @@ Levántate.
 
 77
 00:16:30,447 --> 00:16:34,266
-Esto yo ya lo sé. Puede, hay algo nuevo?
-Y voy a tratar de recordar.
+Ya lo se. ¿Tal vez se te ocurrio algo nuevo?
+Y trataré de recordarlo.
 
 78
 00:17:10,200 --> 00:17:13,591
-Tengo alguna razón el presentimiento de que usted
-aquí no para de cocinar me desayuno.
+Por alguna razón tengo el presentimiento de que
+aqui no me haran el desayuno.
+
 
 79
 00:17:39,099 --> 00:17:44,481
-Trae a sus sentimientos. Si todavía piensa
-que él ridículo... házmelo saber.
+siente esto. Si todavía piensas
+que es gracioso ... Avísame.
+
 
 80
 00:17:45,665 --> 00:17:47,585
-Yo no niego de nuevo con él
-realizar este proceso.
+No me negaré otra vez con él
+para realizar este proceso.
 
 81
 00:18:47,139 --> 00:18:51,136
-Hola. Dice informativo
-la oficina Central de Control.
+Hola Habla la Oficina de 
+información de administración central.
+
 
 82
 00:18:51,208 --> 00:18:54,008
@@ -543,7 +564,7 @@ durante la semana de haber comprendido con este desorden.
 118
 00:27:34,498 --> 00:27:37,608
 - Hola, Danny.
-- Груберт.
+- Grubert.
 - Me alegro de volver a verte.
 
 119
@@ -611,7 +632,7 @@ Simplemente me refiero en el sentido de.
 
 132
 00:28:43,405 --> 00:28:46,308
-- Y esta es la dirección de la выбераете usted, coronel?
+- ¿Y esta dirección elige, coronel?
 - No, no yo.
 
 133
@@ -636,12 +657,13 @@ para todo quedó como antes.
 
 137
 00:29:04,400 --> 00:29:06,841
-Sale, tú por aquí algún tiempo погостишь.
+Resulta que pasaras algún tiempo aquí.
 
 138
 00:30:02,929 --> 00:30:07,082
-He recibido el informe de la Administración Central:
+He recibido el informe de  administración central:
 los presos se han escapado.
+
 
 139
 00:30:08,421 --> 00:30:10,430
@@ -671,8 +693,9 @@ que no es tan importante.
 
 144
 00:30:28,390 --> 00:30:31,178
-Después de todo, y sobre торговцах información
+Después de todo, También somos comerciantes de información
 no han oído hablar.
+
 
 145
 00:30:31,228 --> 00:30:34,171
@@ -706,7 +729,7 @@ detuvieron a tener? Sabes qué es el todo?
 151
 00:30:47,930 --> 00:30:51,657
 Ambos tienen razón, no podemos confiar en ellos.
-Pero y dejar ir no, no разузнаем.
+Pero no puedes dejarlos ir hasta que lo descubras.
 
 152
 00:30:51,770 --> 00:30:54,003
@@ -719,8 +742,8 @@ Haremos esto. En el caso de.
 
 154
 00:30:58,313 --> 00:31:01,934
-Buenos días. Dice informativo
-la oficina Central de Control.
+Buenos Habla la Oficina de 
+información de administración central.
 
 155
 00:31:01,984 --> 00:31:05,821
@@ -927,13 +950,16 @@ Y tú, ¿por qué callas?
 
 198
 00:34:10,599 --> 00:34:14,387
-La administración central considera que te espía.
+La administración central considera que eres espía.
 Sabes lo que hacen con los espías?
+
+
+
 
 199
 00:34:16,126 --> 00:34:20,313
 Sabina.
-O está cercano, o casi muda.
+Ella es miope o casi tonta.
 
 200
 00:34:21,733 --> 00:34:23,705
@@ -1005,7 +1031,9 @@ Oh, mierda, ¡funcionó!
 215
 00:35:11,269 --> 00:35:13,022
 El expediente fue remitido
-en el comité central.
+en el administración central.
+
+
 
 216
 00:35:13,081 --> 00:35:15,534
@@ -1020,7 +1048,9 @@ y es de enorme importancia.
 218
 00:35:18,325 --> 00:35:22,262
 Esta información está disponible sólo tres
-los miembros del Comité Central.
+los miembros del administración central.
+
+
 
 219
 00:35:22,310 --> 00:35:24,599
@@ -1100,8 +1130,9 @@ La gente debe ver.
 
 235
 00:37:48,416 --> 00:37:51,864
-Bienvenido informativo
-la oficina Central de Control.
+Bienvenido Oficina de 
+información de administración central.
+
 
 236
 00:37:51,984 --> 00:38:03,352
@@ -1177,8 +1208,10 @@ pero ella está aquí.
 
 251
 00:39:07,615 --> 00:39:11,077
-Y la Administración Central quiere saber
+Y   administración central quiere saber
 ¿por qué.
+
+
 
 252
 00:39:11,856 --> 00:39:16,605
@@ -1219,7 +1252,6 @@ Aquí, claramente algún tipo de error.
 
 260
 00:41:58,837 --> 00:42:02,652
-Релиз
 Musty Movies
 
 261
@@ -1229,8 +1261,10 @@ organizar el accidente,
 
 262
 00:43:01,790 --> 00:43:05,423
-...que mostrará al Mundo central
-gestión de, de que no todo está en su poder.
+...que mostrará al Mundo , 
+que no todo está en el poder de administración central.
+
+
 
 263
 00:43:05,595 --> 00:43:08,395
@@ -1254,7 +1288,10 @@ que su expediente se trasladaron al archivo cerrado.
 267
 00:43:33,589 --> 00:43:38,885
 Sí es bueno para ti, slater. La Administración Central
-especialmente ha dejado estas expediente, para que en ellos encontré.
+especialmente ha dejado este expediente, para que en ellos lo encuentré.
+
+
+.
 
 268
 00:43:39,006 --> 00:43:41,694
@@ -1273,8 +1310,8 @@ otro camino.
 
 271
 00:43:45,377 --> 00:43:48,454
-Es bueno a ti, es Grosero, ella que,
-es similar a la инопланетянку con plutón?
+Vamos, Grub, es ella la que,
+parece un extraterrestre de Plutón?
 
 272
 00:43:48,577 --> 00:43:55,278
@@ -1783,8 +1820,8 @@ Buena música, buena bebida, y por supuesto...
 
 381
 01:01:28,661 --> 01:01:35,567
-Sabes, cuando te conocí, pensé,
-que estás en música en absoluto nada смыслишь.
+Sabes, cuando te conocí, pensé
+que no entiendes nada de música.
 
 382
 01:01:35,695 --> 01:01:37,553
@@ -1956,7 +1993,7 @@ un poco de maíz de las galletas.
 419
 01:05:11,991 --> 01:05:16,232
 - Son hermosas. Y son inofensivas?
-- Sí, no укусят.
+- "Sí, no morderán".
 
 420
 01:05:16,687 --> 01:05:17,803
@@ -2358,12 +2395,12 @@ Necesito sólo una niña.
 
 513
 01:26:23,930 --> 01:26:28,080
-Yo te prometo, no le
-en un laboratorio de investigación.
+Te prometo que no la enviarán
+al laboratorio de investigación.
 
 514
 01:26:29,111 --> 01:26:32,120
-Ella era más útil vivo.
+Ella es más útil viva para mí.
 
 515
 01:26:52,261 --> 01:26:55,675
@@ -2382,5 +2419,4 @@ sasha20072007, sfiction, $Shorox
 
 518
 01:29:09,261 --> 01:29:17,675
-Релиз
 Musty Movies
